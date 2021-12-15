@@ -1,2 +1,2 @@
 # rust
-Aprednizado sobre a linguagem Rust
+Aprendizado sobre a linguagem Rust
